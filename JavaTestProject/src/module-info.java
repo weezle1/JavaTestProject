@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Westl
- *
- */
-module JavaTestProject {
-}

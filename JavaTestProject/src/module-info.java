@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Westl
+ *
+ */
+module JavaTestProject {
+}

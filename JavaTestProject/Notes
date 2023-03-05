@@ -1,2 +1,6 @@
 Need to generate token on GitHub to be able to push to Origin, below is a how to. I set the token to expire in 30 days.
 https://stackoverflow.com/questions/68790276/pushing-from-eclipse-to-my-github-repository-via-https-stopped-working-git-rec
+
+Working tree is in D:\Parent_Documents\GitHub\Java\JavaTestProject
+Use the Java folder as the landing folder, JavaTestProject will be automatically created when cloning the repository
+
